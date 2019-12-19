@@ -1,3 +1,3 @@
 <?php 
 
-echo "ask";
+echo "this is bbs";
